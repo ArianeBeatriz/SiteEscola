@@ -1,3 +1,9 @@
+body{
+    font-family: 'Alkatra', cursive;
+}
+
+
+
 .cabecalho{
     background-color: #0c0e0d;
     color:white;
@@ -34,4 +40,13 @@
     justify-content: center;
     align-items: center;Formula-bro
     padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 350px;
+
+
+
+    .estudante-imagem{
+        width: 350px;
 }
